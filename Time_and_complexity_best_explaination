@@ -59,9 +59,20 @@ DSa book simply & less theoretical explained: http://www.dacc.edu.in/wp-content/
                 links 1 : https://favtutor.com/blogs/divide-and-conquer-algorithm
                 links 2 : https://skerritt.blog/divide-and-conquer-algorithms/     (also explained recursion, Tower of Hanoi too)
                 
-       ******Data Structures  ***************
+ 6 **********Data Structures  ***************
        
                 links1 : https://www.edureka.co/blog/data-structures-in-python/  (Data  Structures ka flow chart dekhne k liye. thats it.)
+                
+ 7 **********List in Python ****************
+                links1 : https://www.analyticsvidhya.com/blog/2021/04/python-list-programs-for-absolute-beginners/#:~:text=The%20list%20is%20one%20of,type%20or%20a%20boolean%20type.
+                              (10 problem related to list) 
+                            
+                links2 : https://www.programiz.com/python-programming/methods/list/count  (List Methods(count, append, extend,index, reverse, clear, copy,pop etc)).
+                links3 : https://towardsdatascience.com/15-things-you-should-know-about-lists-in-python-c566792eca98  (not needed "w3 schools list" is much better than this. 
+                         Its just more theoretical . I added because 2 or 3 concepts explain goods i.e, list constructor,& comphrension)
+ 
+                
+                
                 
        
 
