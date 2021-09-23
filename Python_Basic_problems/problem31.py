@@ -6,8 +6,10 @@ for i in number:
     if i == number[-1]:
         print(str(len(number))+str(i))
 
+       
         # OR code 2nd
 
+ 
     #using while loop
 '''
 n=int(input("Enter the number:"))
