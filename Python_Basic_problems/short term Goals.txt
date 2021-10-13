@@ -1,6 +1,6 @@
 Stack -done
 Queue -done
-Linked List
+Linked List concept - done
 Hash 
 Tree - done
 Graph

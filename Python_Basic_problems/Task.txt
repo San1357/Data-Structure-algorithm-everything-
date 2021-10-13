@@ -1,5 +1,5 @@
 Todays task :
-8 Math
+8 Math  
 Sanfoundry
 Linked List concepts (theory)
 
@@ -11,7 +11,7 @@ Linked List concepts (theory)
 Tommorow + 2 tasks
 9 maths 
 Sanfoundry
-Linked List concepts (theory) 
+Linked List concepts (practical) 
 
 Tommorow task + 3
 10 maths 
